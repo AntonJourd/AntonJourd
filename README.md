@@ -35,10 +35,10 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=)
-
+<!--
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AntonJourd&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-
+-->
 # Contact
 
 <a href=mailto:anton.jourdheuil@epitech.eu>![Outlook](https://img.shields.io/badge/anton.jourdheuil@epitech.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
